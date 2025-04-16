@@ -1,5 +1,5 @@
 # DinoPass wordlist creation
-quick shell script to build a complex wordlist via the DinoPass API
+Quick shell script to build a complex wordlist via the DinoPass API
 
 * Is Rate Limited to 1 second query intervals
 
